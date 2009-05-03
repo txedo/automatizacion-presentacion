@@ -15,3 +15,7 @@ http://www.pcstats.com/articleview.cfm?articleid=1722&page=1
 ¿Cómo se fabrica un motherboard?
 
 http://amistosamentelinux.blogspot.com/2009/02/como-se-fabrica-un-motherboard.html
+
+Empresa que vende máquinas que se utilizan en el proceso automatizado de fabricación de PCBs
+
+http://www.apsgold.com/ (en el menú de la izquierda podeis ver pick&place, smt systems, wave solders...)
