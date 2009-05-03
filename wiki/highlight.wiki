@@ -16,9 +16,11 @@ http://www.pcstats.com/articleview.cfm?articleid=1722&page=1
 
 http://amistosamentelinux.blogspot.com/2009/02/como-se-fabrica-un-motherboard.html
 
-Empresa que vende máquinas que se utilizan en el proceso automatizado de fabricación de PCBs
+Empresas que venden máquinas que se utilizan en el proceso automatizado de fabricación de PCBs (en el menú de la izquierda podeis ver pick&place, smt systems, wave solders...)
 
-http://www.apsgold.com/ (en el menú de la izquierda podeis ver pick&place, smt systems, wave solders...)
+http://www.apsgold.com/ 
+
+http://www.contax.co.uk/pcb_assembly/pcb_assembly.htm
 
 Página de compra de máquinas de segunda mano
 
