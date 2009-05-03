@@ -21,4 +21,9 @@ Empresa que vende máquinas que se utilizan en el proceso automatizado de fabric
 http://www.apsgold.com/ (en el menú de la izquierda podeis ver pick&place, smt systems, wave solders...)
 
 Página de compra de máquinas de segunda mano
+
 http://www.kitmondo.com/Category.aspx?Catid=163&catName=PCB-Assembly-Equipment (como antes, fijaos en el menú de la izquierda donde se pueden encontrar pick&place, soldering machines, etc... este enlace nos sirve para ver modelos y marcas en concreto y poder buscar información sobre ellos)
+
+Video donde se ve la impresion de circuitos impresos, una maquina pick and place y la maquina de soldadura
+
+http://smt.pennnet.com/video/printing/video.cfm
