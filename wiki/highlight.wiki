@@ -26,4 +26,4 @@ http://www.kitmondo.com/Category.aspx?Catid=163&catName=PCB-Assembly-Equipment (
 
 Video donde se ve la impresion de circuitos impresos, una maquina pick and place y la maquina de soldadura
 
-http://smt.pennnet.com/video/printing/video.cfm
+http://link.brightcove.com/services/player/bcpid1701904124?bclid=1716500191&bctid=1877437335 (lo he sacado de http://smt.pennnet.com/video/printing/video.cfm)
