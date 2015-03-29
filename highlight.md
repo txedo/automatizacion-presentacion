@@ -1,0 +1,31 @@
+Enlaces de interés que usaremos para el trabajo.
+
+# Introduction #
+
+Enlaces de interés
+
+
+# Details #
+
+How Motherboards Are Made: A Gigabyte Factory Tour
+
+http://www.pcstats.com/articleview.cfm?articleid=1722&page=1
+
+
+¿Cómo se fabrica un motherboard?
+
+http://amistosamentelinux.blogspot.com/2009/02/como-se-fabrica-un-motherboard.html
+
+Empresas que venden máquinas que se utilizan en el proceso automatizado de fabricación de PCBs (en el menú de la izquierda podeis ver pick&place, smt systems, wave solders...)
+
+http://www.apsgold.com/
+
+http://www.contax.co.uk/pcb_assembly/pcb_assembly.htm
+
+Página de compra de máquinas de segunda mano
+
+http://www.kitmondo.com/Category.aspx?Catid=163&catName=PCB-Assembly-Equipment (como antes, fijaos en el menú de la izquierda donde se pueden encontrar pick&place, soldering machines, etc... este enlace nos sirve para ver modelos y marcas en concreto y poder buscar información sobre ellos)
+
+Video donde se ve la impresion de circuitos impresos, una maquina pick and place y la maquina de soldadura
+
+http://link.brightcove.com/services/player/bcpid1701904124?bclid=1716500191&bctid=1877437335 (lo he sacado de http://smt.pennnet.com/video/printing/video.cfm)
